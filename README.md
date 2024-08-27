@@ -2,6 +2,9 @@
  <img src="https://i.ibb.co/Gnmk6cn/IMG-20240827-162814.png" width="400">
 </p>
 
+<p align="center">
+  Roovi - chat-bot
+</p>
 
 ## About
 
