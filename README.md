@@ -11,7 +11,7 @@
 Hello there! This repository contains the source code for a Telegram chatbot written in Python. The bot performs the following actions:
 - Generates random numbers on command /random.
 - Repeats the user's message on command /repeat.
-- Moderates messages for obscene language by allowing users to add new words using the /set-words command.
+- Moderates messages for obscene language by allowing users to add new words using the /setwords command.
 
 ## How to install
 
