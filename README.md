@@ -20,7 +20,7 @@ To install, just clone this repository and into a file chat_bot_tg_git.py in the
 
 ## Developer
 
-- [Vrkn47] (https://github.com/Vrkn47)
+- (Vrkn47) [https://github.com/Vrkn47]
 
 ## Contact me
 
