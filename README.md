@@ -8,15 +8,23 @@
 
 ## About
 
-Hi, this repository contains the source code for a telegram chatbot written in Python.
-
-This is a simple chat bot that has the functions of randomly generating numbers on the command / random, repeating a message to the user on the command / repeat, and the bot can also moderate chats for the presence of obscene language, it is important to note that the dictionary for moderation can be replenished using the command / setwords.
-
-I created this bot to practice programming in python, I will also be glad if you offer your ideas for improving this bot.
+Hello there! This repository contains the source code for a Telegram chatbot written in Python. The bot performs the following actions:
+- Generates random numbers on command /random.
+- Repeats the user's message on command /repeat.
+- Moderates messages for obscene language by allowing users to add new words using the /set-words command.
 
 ## How to install
 
-To install, just clone this repository and into a file chat_bot_tg_git.py in the string TOKEN = 'YOUR_TOKEN_HERE', insert your token that was given to you by BotFather (https://t.me/BotFather ).
+1. Clone this repository.
+2. Install Python 3.
+3. Open chat_bot_tg_git.py in your favorite text editor and replace "YOUR_TOKEN" with your Telegram bot token.
+4. Navigate to the directory containing the file "chat_bot_tg_git.py".
+5. Launch the bot by opening the console and running the command "python3 chat_bot_tg_git.py".
+
+
+## License
+
+[MIT License](LICENSE) 
 
 ## Developer
 
@@ -24,4 +32,4 @@ To install, just clone this repository and into a file chat_bot_tg_git.py in the
 
 ## Contact me
 
-If you find any errors in the code or have any ideas for improving the bot, write to me at romankvasov20@gmail.com
+If you have any ideas for improving the bot or fixing possible errors, please let me know by emailing me at romankvasov20@gmail.com.
