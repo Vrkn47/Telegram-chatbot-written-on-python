@@ -24,7 +24,7 @@ Hello there! This repository contains the source code for a Telegram chatbot wri
 
 ## License
 
-[MIT License](LICENSE) 
+[MIT License]([LICENSE](https://ru.wikipedia.org/wiki/Лицензия_MIT)) 
 
 ## Developer
 
