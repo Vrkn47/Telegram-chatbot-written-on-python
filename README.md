@@ -28,7 +28,7 @@ Hello there! This repository contains the source code for a Telegram chatbot wri
 
 ## Developer
 
-- [Vrkn47] (https://github.com/Vrkn47)
+- (Vrkn47) [https://github.com/Vrkn47]
 
 ## Contact me
 
