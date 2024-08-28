@@ -19,7 +19,7 @@ Hello there! This repository contains the source code for a Telegram chatbot wri
 2. Install Python 3.
 3. Open chat_bot_tg_git.py in your favorite text editor and replace "YOUR_TOKEN" with your Telegram bot token.
 4. Navigate to the directory containing the file "chat_bot_tg_git.py".
-5. Launch the bot by opening the console and running the command "python3 chat_bot_tg_git.py".
+5. Launch the bot by opening the console and running the command "python3 chat_bot_tg_git.py chat_bot_tg_git".
 
 
 ## License
